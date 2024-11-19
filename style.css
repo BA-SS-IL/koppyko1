@@ -1,0 +1,114 @@
+body{
+    margin: 0px;
+
+}
+
+
+.header{
+    background-color: black;
+    width: 100%;
+    height: 250px;
+    margin-top:-40px;
+    
+
+}
+
+.company-name{
+    color: rgb(153, 153, 153);
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400px;
+    text-align: center;
+    padding-top: 45px;
+    cursor: pointer;
+
+}
+.company-name:hover{
+    color: red;
+    transition: 1s;
+
+}
+.para-1{
+    color: rgb(153, 153, 153);
+    font-style: normal;
+    text-align: center;
+    font-size: 18px;
+    font-stretch: 100%;
+    line-height:1px;
+    position: relative;
+    gap: 40%;
+}
+.horizondal-line{
+    border-color: rgb(101, 103, 104);
+    
+  
+}
+.details{
+    text-align: center;
+    padding-left: 30px;
+    margin-top: 69px
+   
+
+}
+.sub-head{
+    color: rgb(153, 153, 153);
+    margin-right: 10px;
+    cursor: pointer;
+}
+.sub-head:hover{
+    color: red;
+    transition: 1s;
+}
+.entity{
+    font-size: 30px;
+}
+.main-body{
+    width: 100%;
+    background-color: black;
+}
+.picture-1{
+    margin-bottom: 100px;
+}
+
+.for-text{
+    color:rgb(153, 153, 153) ;
+    text-align: center;
+    font-size: 21px;
+    font-weight: 600;
+    
+   
+}
+.content{
+line-height: 1.6;
+    
+}
+.picture-2{
+    margin-left: 260px;
+    margin-top: 36px;
+}
+.icon{
+    background-color: black;
+    margin-left: 380px;
+    margin-top: 200px;
+
+}
+.icon img{
+    justify-content: center;
+    background: transparent;
+    width: 30px;
+    padding-left: 100px;   
+}.footer{
+    background-color: black;
+    color: rgb(153, 153, 153);
+    height: 100px;
+   
+    padding-top: 150px;
+    padding-left: 480px;
+}
+.hover:hover{
+    color: red;
+    transition: 1s;
+    cursor: pointer;
+    text-decoration: underline;
+
+}
